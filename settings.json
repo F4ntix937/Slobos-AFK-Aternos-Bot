@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CZ_SMP-PYhD.aternos.me",
+    "ip": "CZ_SMP_CZ.aternos.me",
     "port": 52682,
     "version": "",
     "try-creative": false
